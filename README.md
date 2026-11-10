@@ -7,18 +7,18 @@
 <p><b>NeurIPS 2026</b></p>
 
 <p>
-<a href="https://wangandyyucheng.github.io/">Yucheng Wang</a><sup>1</sup> &nbsp;·&nbsp;
-<a href="https://jacky1128.github.io/">Zedong Wang</a><sup>1</sup> &nbsp;·&nbsp;
+<a href="https://wangandyyucheng.github.io/">Yucheng Wang</a><sup>1*</sup> &nbsp;·&nbsp;
+<a href="https://jacky1128.github.io/">Zedong Wang</a><sup>1*</sup> &nbsp;·&nbsp;
 <a href="https://scholar.google.com/citations?user=Fjqr0fEAAAAJ">Yuetong Wu</a><sup>1</sup> &nbsp;·&nbsp;
 <a href="https://mayuelala.github.io/">Yue Ma</a><sup>1</sup> &nbsp;·&nbsp;
 <a href="https://www.danxurgb.net/">Dan Xu</a><sup>1&dagger;</sup>
 </p>
 
-<p><sup>1</sup>The Hong Kong University of Science and Technology &nbsp;&nbsp; <sup>&dagger;</sup>Corresponding author</p>
+<p><sup>1</sup>The Hong Kong University of Science and Technology &nbsp;&nbsp; <sup>*</sup>Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup>Corresponding author</p>
 
 <p>
 <a href="https://safe-hair.github.io/"><img src="https://img.shields.io/badge/Project-Page-2c5fb3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"></a>
-<a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2611.12037"><img src="https://img.shields.io/badge/arXiv-2611.12037-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
 <a href="#"><img src="https://img.shields.io/badge/NeurIPS-2026-6c4ab6?style=for-the-badge" alt="NeurIPS 2026"></a>
 <a href="#release-plan"><img src="https://img.shields.io/badge/Code-Coming_Soon-363636?style=for-the-badge&logo=github&logoColor=white" alt="Code coming soon"></a>
 </p>
@@ -118,7 +118,7 @@ straight into Alembic or engine-native strand assets without changing the recons
 ## 🗓️ Release Plan
 
 - [x] Project page
-- [ ] Paper on arXiv
+- [x] Paper on [arXiv](https://arxiv.org/abs/2611.12037)
 - [ ] Inference code and pretrained checkpoints
 - [ ] Groom export tools
 - [ ] HairBench-3D evaluation
@@ -131,7 +131,7 @@ straight into Alembic or engine-native strand assets without changing the recons
 ```bibtex
 @inproceedings{wang2026safehair,
   title     = {SAFE-Hair: Scalp-Anchored Fields for Exportable
-               Single-View 3D Hair Reconstruction},
+               Single-View Hair Reconstruction},
   author    = {Wang, Yucheng and Wang, Zedong and Wu, Yuetong
                and Ma, Yue and Xu, Dan},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
