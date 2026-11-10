@@ -7,14 +7,15 @@
 <p><b>NeurIPS 2026</b></p>
 
 <p>
-<a href="https://wangandyyucheng.github.io/">Yucheng Wang</a><sup>1*</sup> &nbsp;·&nbsp;
-<a href="https://jacky1128.github.io/">Zedong Wang</a><sup>1*</sup> &nbsp;·&nbsp;
-<a href="https://scholar.google.com/citations?user=Fjqr0fEAAAAJ">Yuetong Wu</a><sup>1</sup> &nbsp;·&nbsp;
-<a href="https://mayuelala.github.io/">Yue Ma</a><sup>1</sup> &nbsp;·&nbsp;
-<a href="https://www.danxurgb.net/">Dan Xu</a><sup>1&dagger;</sup>
+<a href="https://wangandyyucheng.github.io/">Yucheng Wang</a><sup>*</sup> &nbsp;·&nbsp;
+<a href="https://jacky1128.github.io/">Zedong Wang</a><sup>*</sup> &nbsp;·&nbsp;
+<a href="https://scholar.google.com/citations?user=Fjqr0fEAAAAJ">Yuetong Wu</a> &nbsp;·&nbsp;
+<a href="https://mayuelala.github.io/">Yue Ma</a> &nbsp;·&nbsp;
+<a href="https://www.danxurgb.net/">Dan Xu</a><sup>&dagger;</sup>
 </p>
 
-<p><sup>1</sup>The Hong Kong University of Science and Technology &nbsp;&nbsp; <sup>*</sup>Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup>Corresponding author</p>
+<p>The Hong Kong University of Science and Technology<br>
+<sup>*</sup>Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup>Corresponding author</p>
 
 <p>
 <a href="https://safe-hair.github.io/"><img src="https://img.shields.io/badge/Project-Page-2c5fb3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"></a>
